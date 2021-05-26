@@ -6,4 +6,5 @@
 
 ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstan13y&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&layout=compact)
 
+[![Keith's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&theme=blue-green)](https://github.com/iamstan13y/github-readme-stats)
 
