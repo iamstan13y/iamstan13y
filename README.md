@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Keith
+# Hi there <img src="https://raw.githubusercontent.com/iamstan13y/iamstan13y/master/<GIF_NAME>.gif" width="30px">, I'm Keith
 
 ### Social
 <a href="https://twitter.com/iamstan13y"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
