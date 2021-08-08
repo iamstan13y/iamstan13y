@@ -4,7 +4,7 @@
 
 ### Social
 <a href="https://twitter.com/iamstan13y"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="mailto:iamstan13y@gmail.com">![mailto:iamstan13y@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>   <a href="https://www.linkedin.com/in/keith-p-charedzera-219102143/">![Keith Charedzera](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://dev.to/iamstan13y">![Keith Charedzera](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a> 
+<a href="mailto:iamstan13y@gmail.com">![mailto:iamstan13y@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>   <a href="https://www.linkedin.com/in/keithzw/">![Keith Charedzera](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://dev.to/iamstan13y">![Keith Charedzera](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a> 
 
 ### My Tools
 #### - Programming Languages: 
