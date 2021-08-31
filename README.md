@@ -24,4 +24,4 @@
 
 [![Keith's github streak](https://github-readme-streak-stats.herokuapp.com/?user=iamstan13y&theme=blue-green)](https://github.com/iamstan13y/github-readme-streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamstan13y&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Keith's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamstan13y&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
