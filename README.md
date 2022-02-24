@@ -7,7 +7,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/iamstan13y.svg)](https://user-badge.committers.top/zimbabwe_public/iamstan13y)
 
-- 🔭 I’m currently working on [Fomalhaut-Microservices](https://github.com/iamstan13y/fomalhaut-microservices)  
+- 🔭 I’m currently working on [Zimbabwe Calendar API](https://github.com/iamstan13y/zim-calendar-api)  
   
 
 - 🌱 I’m currently learning Microservices Architecture & Docker  
