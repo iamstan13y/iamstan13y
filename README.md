@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://app.daily.dev/iamstan13y"><img src="https://api.daily.dev/devcards/36d93c2471804573ab039201ea689e24.png?r=z6m" width="400" alt="Keith Stanley's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="400" alt="Keith Stanley's Dev Card"/></a>
 </div>  
   
 
