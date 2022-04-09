@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<a href="https://app.daily.dev/iamstan13y"><img src="https://api.daily.dev/devcards/36d93c2471804573ab039201ea689e24.png?r=z6m" width="400" alt="Keith Stanley's Dev Card"/></a>
 </div>  
   
 
