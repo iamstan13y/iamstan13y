@@ -53,8 +53,11 @@
 
 
 ## Github Stats  
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamstan13y&show_icons=true&locale=en&layout=compact" alt="iamstan13y" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamstan13y&" alt="iamstan13y" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamstan13y&show_icons=true&locale=en&layout=compact" alt="iamstan13y" /></p>
+
+<br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamstan13y&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
