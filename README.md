@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="400" alt="Keith Stanley's Dev Card"/></a>
+  <p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" /></p>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="380" alt="Keith Stanley's Dev Card"/></a>
 </div>  
 
 
