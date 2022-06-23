@@ -54,7 +54,7 @@
 
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&layout=compact" alt="iamstan13y" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&langs_count=5" alt="iamstan13y" /></p>
 <br/>
 
 <p align="center">
