@@ -4,11 +4,11 @@
 </div>  
 
 
-### <div align="center">I'm Keith, a Full-stack .NET Core Developer capable of making furniture with an axe😉</div>  
+### <div align="center">I'm Keith, a Full-stack .NET Core Developer capable of making furniture with an axe.😉</div>  
 
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/iamstan13y.svg)](https://user-badge.committers.top/zimbabwe_public/iamstan13y)
 
-- 🔭 I’m currently working on [Zim Calendar API](https://github.com/iamstan13y/zim-calendar-api)  
+- 🔭 I’m currently working on [Alpheratz Store](https://github.com/iamstan13y/alpheratz-store)  
   
 
 - 🌱 I’m currently learning Microservices Architecture & Docker  
