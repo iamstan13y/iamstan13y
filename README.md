@@ -54,7 +54,7 @@
 
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&langs_count=5" alt="iamstan13y" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&langs_count=20count_private=true&theme=cobalt&layout=compact" alt="iamstan13y" /></p>
 <br/>
 
 <p align="center">
@@ -62,6 +62,10 @@
 </p>
 <br/>
 <br/>
+
+[![Keith Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstan13y&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 [![Keith's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamstan13y&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
