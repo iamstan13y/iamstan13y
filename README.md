@@ -53,9 +53,13 @@
 <br/>  
 
 
-## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstan13y&langs_count=20count_private=true&theme=cobalt&layout=compact" alt="iamstan13y" /></p>
-<br/>
+## Github Stats 
+<p align="center">
+
+![](https://raw.githubusercontent.com/iamstan13y/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/iamstan13y/github-stats-transparent/output/generated/languages.svg)
+
+</p>
 
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=iamstan13y&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
