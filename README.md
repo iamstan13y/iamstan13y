@@ -54,12 +54,12 @@
 
 
 ## Github Stats 
-<p align="center">
+<div align="center">
 
 ![](https://raw.githubusercontent.com/iamstan13y/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/iamstan13y/github-stats-transparent/output/generated/languages.svg)
 
-</p>
+</div>
 
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=iamstan13y&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
@@ -67,11 +67,11 @@
 <br/>
 <br/>
 
-<p align="center">
+<div align="center">
 
 [![Keith Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstan13y&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</div>
 
 <br>
 
