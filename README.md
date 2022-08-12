@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Alpheratz Store](https://github.com/iamstan13y/alpheratz-store)  
   
 
-- 🌱 I’m currently learning Microservices Architecture & Docker  
+- 🌱 I’m currently learning Microservices Architecture & Docker.
   
 
 - ❓ Ask me about anything related to C#, .NET Core Development and related technologies.  
