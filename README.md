@@ -6,7 +6,7 @@
 
 ### <div align="center">I'm Keith, a Full-stack .NET Core Developer capable of making furniture with an axe.😉</div>  
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/iamstan13y.svg)](https://user-badge.committers.top/zimbabwe_public/iamstan13y)
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/iamstan13y.svg)](https://user-badge.committers.top/zimbabwe_private/iamstan13y)
 
 - 🔭 I’m currently working on [Alpheratz Store](https://github.com/iamstan13y/alpheratz-store)  
   
