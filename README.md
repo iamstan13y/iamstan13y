@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" /></div>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="380" alt="Keith Stanley's Dev Card"/></a>
-</div>  
+</div>  co
 
 
 ### <div align="center">I'm Keith, a Full-stack .NET Core Developer capable of making furniture with an axe.😉</div>  
@@ -27,7 +27,7 @@
 
 <br/>
 
-## Connect With e  
+## Connect With Me  
 <div align="center">
 <a href="https://github.com/iamstan13y" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
