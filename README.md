@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" /></div>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="380" alt="Keith Stanley's Dev Card"/></a>
-</div>  co
+</div> 
 
 
 ### <div align="center">I'm Keith, a Full-stack .NET Core Developer capable of making furniture with an axe.😉</div>  
