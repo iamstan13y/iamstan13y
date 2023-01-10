@@ -1,6 +1,8 @@
 <div align="center">
   <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" /></div>
   
+  ![snake animation](https://github.com/iamstan13y/blob/output/github-contribution-grid-snake2.svg)
+  
   [![@iamstan13y's Holopin board](https://holopin.io/api/user/board?user=iamstan13y)](https://holopin.io/@iamstan13y)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="380" alt="Keith Stanley's Dev Card"/></a>
