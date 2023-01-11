@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" /></div>
   
-  ![snake animation](https://github.com/iamstan13y/blob/output/github-contribution-grid-snake2.svg)
+  ![](https://github.com/iamstan13y/snk/raw/output/github-contribution-grid-snake.svg)
   
   [![@iamstan13y's Holopin board](https://holopin.io/api/user/board?user=iamstan13y)](https://holopin.io/@iamstan13y)
 
