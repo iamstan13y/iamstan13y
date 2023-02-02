@@ -84,7 +84,14 @@
 
 <br>
 
-[![Keith's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamstan13y&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<a href="https://github.com/iamstan13y/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamstan13y&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/iamstan13y/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamstan13y&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 <br/>  
 
