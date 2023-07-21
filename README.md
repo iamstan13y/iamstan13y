@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning some DevOps stuff.
   
 
-- ❓ Ask me about anything related to C#, .NET Core Development and related technologies.  
+- ❓ Ask me about anything related to C#, .NET Core Development, or anything else tech-related!
   
 
 - ⚡ Fun fact: I actually make furniture with an axe.  
