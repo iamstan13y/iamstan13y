@@ -5,7 +5,9 @@
   
   [![@iamstan13y's Holopin board](https://holopin.io/api/user/board?user=iamstan13y)](https://holopin.io/@iamstan13y)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="380" alt="Stanley's Dev Card"/></a>
+<a href="https://app.daily.dev/iamstan13y"><img src="https://api.daily.dev/devcards/v2/6vJuBB62B.png?type=default&r=wcm" width="380" alt="Keith Stanley's Dev Card"/></a>
+
+<!--- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamstan13y/iamstan13y/blob/main/devcard.svg" width="380" alt="Stanley's Dev Card"/></a> --->
 </div> 
 
 
