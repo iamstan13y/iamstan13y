@@ -92,7 +92,10 @@
 </a>
 <a href="https://github.com/iamstan13y/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamstan13y&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+
 </a>
+<a href="https://gitroll.io/profile/ulMoM5Vl16meqYGYkPZueX0Epd7G2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulMoM5Vl16meqYGYkPZueX0Epd7G2" alt="GitRoll Profile Badge width="80%"/></a>
+
 </p>
 
 <br/>  
