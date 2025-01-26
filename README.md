@@ -18,6 +18,8 @@
 </div>
   
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_private/iamstan13y.svg)](https://user-badge.committers.top/zimbabwe_private/iamstan13y)
+[![wakatime](https://wakatime.com/badge/user/3798c860-fc11-443e-8d1d-022aa108f9b6.svg)](https://wakatime.com/@3798c860-fc11-443e-8d1d-022aa108f9b6)
+
 
 - 🔭 I’m currently working on [Alpheratz Store](https://github.com/iamstan13y/alpheratz-store)  
   
